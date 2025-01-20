@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: #F6F6F6;
+}
+
+.blue {
+    color: #00468c;
+}
+
+.divprincipal {
+    display: flex;
+    margin:15%;
+    justify-content: space-between;
+}
+
+.divesquerda {
+    width: 60%;
+
+}
+
+.divdireita{
+    width:40%;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align:center;
+    margin-top:0;
+}
+
+p{
+    text-align:justify;
+}
+
+a{
+    display:block;
+    text-align:center;
+}
