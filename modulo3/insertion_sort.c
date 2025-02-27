@@ -21,7 +21,7 @@ int main(){
     int i;
     int v[] ={16,11,6,3,30,35};
     insertion_sort(v);
-    for(i=1;i<tam;i++){
+    for(i=0;i<tam;i++){
         printf("%d ",v[i]);
     }
     printf("\n");
