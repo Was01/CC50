@@ -1,0 +1,25 @@
+*{
+    padding:20px;
+}
+
+
+body{
+    background: #ccc;
+}
+
+.vermelho{
+    color:red;
+}
+
+.center{
+    text-align:center;
+}
+
+.font-30{
+    font-size:30px;
+}
+
+#teste{
+    color:blue;
+    background-color: yellow;
+}
