@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+
+
+h1 {
+    color: #13a3a8;
+}
+
+p {
+    color: white;
+}
+
+.exemplo-background{
+    height: 300px;
+    background-image:url("imagem.jpg");
+    background-size:cover;
+
+}
