@@ -1,0 +1,17 @@
+h1{
+    background: black;
+    color:white;
+    text-align:center;
+    margin:50px;
+    padding:15px;
+    border-radius: 10px;
+}
+
+.teste{
+    margin:50px;
+    max-width:800px;
+    height: 150px;
+    background:black;
+    color:white;
+
+}
