@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+}
+
+
+body {
+    margin: 50px 100px 50px 100px;
+}
+
+
+
+h1 {
+    font-family: "Manufacturing Consent", system-ui;
+    font-weight: 400;
+    font-size:50px;
+    font-style: normal;
+    background: darkgreen;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+}
+
+a.botao1{
+    background:darkgreen;
+    color:rgb(6,204,6);
+    padding:10px;
+    text-decoration: none;
+    border: 3px solid greenyellow;
+    border-radius:5px;
+}
+
+
+a.botao1:hover{
+    background:rgb(6, 204, 6);
+    padding:15px;
+    border: 3px solid rgb(237, 240, 234);
+    color:white;
+  
+}
+
+a.botao2{
+    padding:10px;
+    border:3px solid rgb(6,204,6);
+    border-radius:5px;
+    color:rgb(6,204,6);
+    text-decoration:none;
+
+}
+
+a.botao2:hover{
+    padding:5px;
+    color:white;
+    background:rgb(6,204,6);
+
+}
