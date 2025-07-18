@@ -1,0 +1,13 @@
+h1{
+    text-align:center;
+    background: black;
+    color:white;
+    padding:5px;
+    border-radius: 10px;
+}
+
+div{
+    height: 80px;
+    background:gray;
+    overflow-y: auto;
+}
