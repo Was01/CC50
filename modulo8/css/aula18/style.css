@@ -1,0 +1,27 @@
+h1{
+    color:#00468c;
+    text-align: center;
+    font-size: 50px;
+}
+
+.container{
+    margin:30px;
+    overflow: auto;
+   
+    
+}
+
+.container img{
+    float:right;
+     margin-left:50px;
+}
+
+h2{
+    text-align: center;
+    color:#00468c;
+}
+
+p{
+    text-align:justify;
+    color: 	#808080;
+}
