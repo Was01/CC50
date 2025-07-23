@@ -1,1 +1,1 @@
-## Tags semânticas em html
+## Semântica em html
