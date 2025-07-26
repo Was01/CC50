@@ -4,40 +4,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aprendendo CSS</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Dropdown menu</title>
+    <link rel="stylesheet" href="styledropdown.css">
 </head>
 
 <body>
-    <ul>
-        <li>
-            <a href="#">Link</a>
-        </li>
+    <nav>
+        <ul>
+            <li>
+                <a href="#">Link</a>
+            </li>
 
-        <li>
-            <a href="#">Link</a>
-        </li>
+            <li>
+                <a href="#">Link</a>
+            </li>
 
-        <li>
-            <a href="#">Link</a>
-        </li>
+            <li class="dropdown">
+                <a href="#">Link</a>
+                <div class="dropdown-menu">
+                    <ul>
+                        <a href="#">Link1</a>
+                        <a href="#">Link2</a>
+                        <a href="#">Link3</a>
+                    </ul>
+                </div>
+            </li>
 
-
-        <li class="dropdown">
-            <a class="dropbtn" href="#">Link</a>
-
-            <div class="dropdown-content">
-
-                <a  href="#">Link</a>
-                <a  href="#">Link</a>
-                <a  href="#">Link</a>
-                <a  href="#">Link</a>
-
-
-            </div>
-        </li>
-
-    </ul>
+            <li>
+                <a href="#">Link</a>
+            </li>
+        </ul>
+    </nav>
 
 </body>
 
