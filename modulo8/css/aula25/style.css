@@ -1,0 +1,18 @@
+.caixa{
+    text-align:center;
+    background:white;
+    width:40%;
+    height: 350px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+
+.reduzido{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.caixa:hover .reduzido{
+    white-space: normal;
+}
