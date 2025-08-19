@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mozilla+Headline:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    flex-flow: row wrap;
+    background: white;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    flex: 20%;
+    margin-left: 10%;
+    text-align: left;
+}
+
+.logo h1 {
+    font-family: 'Lobster', cursive;
+    color: #00bff3;
+    font-size: 34px;
+}
+
+.menu {
+    flex: 70%;
+    text-align: right;
+    padding: 20px;
+}
+
+.menu a {
+    color: #00bff3;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 16px;
+
+}
+
+.menu a:hover {
+    color: #df2925;
+    border-top: 4px solid #df2925;
+}
+
+#botao {
+    background: #00bff3;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#botao:hover {
+    border: none;
+    background: #df2925;
+
+}
+
+.header {
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.headline {
+    flex: 40%;
+    margin-left: 10%;
+
+
+}
+
+.headline h2 {
+    font-weight: 900;
+    font-size: 15px;
+    color: #00bff3;
+    padding: 0;
+    margin: 0;
+}
+
+.headline p{
+    color:gray;
+    text-align: justify;
+}
+
+.contact-btn{
+    display:inline-block;
+    background: #df2925;
+    padding:20px;
+    color:white;
+    text-transform: uppercase;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.contact-btn:hover{
+    background:#00bff3;
+}
+
+
+.img-headline {
+    margin-right: 10%;
+    flex: 40%;
+
+    text-align: center;
+}
+
+section{
+    display:inline-block;
+    margin-top:80px;
+    border:1px solid black;
+    margin-left:5%;
+    margin-right: 5%;
+    height:400px ;
+}
