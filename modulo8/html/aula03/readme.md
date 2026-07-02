@@ -1,1 +1,1 @@
-## Meta tags, cabeçalho e parágrafo
+## Meta tags, cabeçalho e parágrafo, tag âncora.
