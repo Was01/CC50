@@ -1,1 +1,1 @@
-# Variáveis var, const r let
+# Variáveis var, const e let
