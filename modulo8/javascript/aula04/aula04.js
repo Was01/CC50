@@ -1,3 +1,10 @@
+// +  adição
+// -  subtração
+// *  multiplicação
+// / divisão
+// % resto
+
+
 const rest=10%3
 const div=10/3
 
